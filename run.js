@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { parseString } = require('xml2js');
 const zlib = require('zlib');
 
 function modifications(text) {
